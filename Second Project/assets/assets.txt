@@ -1,0 +1,410 @@
+assets-0.png
+size: 2048, 2002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 1, 1
+  size: 2046, 1080
+  orig: 2046, 1080
+  offset: 0, 0
+  index: -1
+Character_Colonel_Mustard
+  rotate: false
+  xy: 1575, 1611
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Character_Miss_Scarlet
+  rotate: false
+  xy: 1575, 1796
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Character_Mrs_Peacock
+  rotate: true
+  xy: 1687, 1608
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Character_Mrs_White
+  rotate: false
+  xy: 1872, 1611
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+chooseCharacter
+  rotate: true
+  xy: 332, 1083
+  size: 724, 66
+  orig: 725, 81
+  offset: 0, 0
+  index: -1
+cluedo
+  rotate: true
+  xy: 863, 1182
+  size: 571, 155
+  orig: 579, 200
+  offset: 4, 8
+  index: -1
+continue
+  rotate: true
+  xy: 525, 1083
+  size: 663, 154
+  orig: 670, 201
+  offset: 0, 4
+  index: -1
+endTurn
+  rotate: true
+  xy: 1968, 1289
+  size: 320, 75
+  orig: 323, 100
+  offset: 0, 5
+  index: -1
+enterRoom
+  rotate: true
+  xy: 1227, 1182
+  size: 425, 78
+  orig: 429, 100
+  offset: 0, 2
+  index: -1
+exitRoom
+  rotate: true
+  xy: 1211, 1622
+  size: 374, 79
+  orig: 378, 100
+  offset: 0, 1
+  index: -1
+insertName
+  rotate: true
+  xy: 788, 1182
+  size: 595, 73
+  orig: 599, 91
+  offset: 0, 0
+  index: -1
+makeAccusation
+  rotate: true
+  xy: 1493, 1571
+  size: 415, 80
+  orig: 418, 100
+  offset: 0, 0
+  index: -1
+makeSuggestion
+  rotate: true
+  xy: 1411, 1601
+  size: 399, 80
+  orig: 402, 100
+  offset: 0, 0
+  index: -1
+multiplayer
+  rotate: false
+  xy: 1411, 1182
+  size: 630, 105
+  orig: 633, 133
+  offset: 0, 0
+  index: -1
+numberPlayers
+  rotate: false
+  xy: 847, 1083
+  size: 1150, 97
+  orig: 1180, 100
+  offset: 16, 3
+  index: -1
+pergamino
+  rotate: true
+  xy: 1, 1083
+  size: 724, 329
+  orig: 800, 350
+  offset: 38, 8
+  index: -1
+play
+  rotate: true
+  xy: 1307, 1289
+  size: 310, 136
+  orig: 315, 172
+  offset: 0, 0
+  index: -1
+Profile_Colonel_Mustard
+  rotate: true
+  xy: 1, 1809
+  size: 192, 280
+  orig: 192, 280
+  offset: 0, 0
+  index: -1
+Profile_Miss_Scarlet
+  rotate: true
+  xy: 283, 1809
+  size: 192, 280
+  orig: 192, 280
+  offset: 0, 0
+  index: -1
+Profile_Mrs_Peacock
+  rotate: true
+  xy: 565, 1789
+  size: 192, 280
+  orig: 192, 280
+  offset: 0, 0
+  index: -1
+Profile_Mrs_White
+  rotate: true
+  xy: 847, 1779
+  size: 192, 280
+  orig: 192, 280
+  offset: 0, 0
+  index: -1
+Profile_Professor_Plum
+  rotate: false
+  xy: 1445, 1289
+  size: 192, 280
+  orig: 192, 280
+  offset: 0, 0
+  index: -1
+Profile_The_Reverend_Green
+  rotate: true
+  xy: 1639, 1414
+  size: 192, 280
+  orig: 192, 280
+  offset: 0, 0
+  index: -1
+return
+  rotate: true
+  xy: 1292, 1609
+  size: 390, 117
+  orig: 395, 155
+  offset: 0, 6
+  index: -1
+rollDices
+  rotate: true
+  xy: 1129, 1625
+  size: 374, 80
+  orig: 377, 100
+  offset: 0, 0
+  index: -1
+secretPass
+  rotate: true
+  xy: 1145, 1182
+  size: 438, 80
+  orig: 441, 100
+  offset: 0, 0
+  index: -1
+singleplayer
+  rotate: true
+  xy: 681, 1083
+  size: 652, 105
+  orig: 655, 133
+  offset: 0, 0
+  index: -1
+Token_Colonel_Mustard
+  rotate: false
+  xy: 627, 1748
+  size: 32, 38
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Token_Miss_Scarlet
+  rotate: false
+  xy: 525, 1748
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Token_Mrs_Peacock
+  rotate: false
+  xy: 559, 1748
+  size: 32, 39
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Token_Mrs_White
+  rotate: false
+  xy: 695, 1737
+  size: 32, 36
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Token_Professor_Plum
+  rotate: false
+  xy: 661, 1748
+  size: 32, 38
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Token_The_Reverend_Green
+  rotate: false
+  xy: 593, 1748
+  size: 32, 39
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+what
+  rotate: true
+  xy: 400, 1083
+  size: 717, 123
+  orig: 723, 155
+  offset: 0, 0
+  index: -1
+where
+  rotate: true
+  xy: 1020, 1182
+  size: 441, 123
+  orig: 447, 155
+  offset: 0, 0
+  index: -1
+who
+  rotate: false
+  xy: 1639, 1289
+  size: 327, 123
+  orig: 333, 155
+  offset: 0, 0
+  index: -1
+
+assets-1.png
+size: 1306, 1314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backCard
+  rotate: false
+  xy: 1195, 926
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+board
+  rotate: true
+  xy: 1, 1
+  size: 1178, 1080
+  orig: 1178, 1080
+  offset: 0, 0
+  index: -1
+Character_Professor_Plum
+  rotate: true
+  xy: 266, 1181
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Character_The_Reverend_Green
+  rotate: true
+  xy: 451, 1181
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 1, 1181
+  size: 263, 132
+  orig: 268, 172
+  offset: 0, 4
+  index: -1
+Location_Ball_room
+  rotate: true
+  xy: 636, 1181
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Location_Billard_Room
+  rotate: true
+  xy: 821, 1181
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Location_Conservatory
+  rotate: true
+  xy: 1006, 1181
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Location_Dining_Room
+  rotate: false
+  xy: 1083, 1
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Location_Hall
+  rotate: false
+  xy: 1083, 186
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Location_Kitchen
+  rotate: false
+  xy: 1083, 371
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Location_Library
+  rotate: false
+  xy: 1083, 556
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Location_Lounge
+  rotate: false
+  xy: 1083, 741
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Location_Study
+  rotate: false
+  xy: 1083, 926
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Weapon_Candlestick
+  rotate: false
+  xy: 1191, 1111
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Weapon_Dagger
+  rotate: false
+  xy: 1195, 1
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Weapon_Lead_Pipe
+  rotate: false
+  xy: 1195, 186
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Weapon_Revolver
+  rotate: false
+  xy: 1195, 371
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Weapon_Rope
+  rotate: false
+  xy: 1195, 556
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+Weapon_Spanner
+  rotate: false
+  xy: 1195, 741
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
