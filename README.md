@@ -1,4 +1,4 @@
-# LPOO1617_T5G6
+# LPOO
 Projects for the Object Oriented Programming Lab (LPOO) class of the Master in Informatics and Computer Engineering (MIEIC) at the Faculty of Engineering of the University of Porto (FEUP).
 <br><br>
 ### Team Members
