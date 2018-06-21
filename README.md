@@ -9,6 +9,3 @@ Diogo Filipe da Silva Yaguas<br>
 Tiago Pinho Cardoso
 * Student Number: 201605762
 * E-Mail: up201605762@fe.up.pt
-
-# Intermediate check point
-https://github.com/diogoyaguas/LPOO1718_T4G7/blob/master/Cluedo/Intermediate%20check%20point.pdf
